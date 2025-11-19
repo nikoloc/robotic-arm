@@ -10,5 +10,5 @@ settle for a complete design. make a model to be built/printed and assembled irl
 ## phase 2 - basic arm
 build and test the basic arm movements to make sure things work as expected and can withstand the future challanges. make adjustments if necessary.
 
----
+## phase 3 - fun!
 make new and fun stuff with it!
